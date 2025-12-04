@@ -1,6 +1,6 @@
 <!-- ✨ STYLISH & UNIQUE HEADER ✨ -->
 
-<h1 align="center">🇮🇳✨ INDIA GENERAL ELECTION RESULTS – 2024 ✨🇮🇳</h1>
+<h1 align="center">✨ INDIA GENERAL ELECTION RESULTS – 2024 ✨</h1>
 <h3 align="center">🔍 Interactive Power BI Dashboard • Multi-Level Analytics • Data-Driven Insights 🔍</h3>
 
 <p align="center">
