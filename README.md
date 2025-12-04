@@ -22,8 +22,7 @@
 
 <!-- 🎞️ GIF / Preview -->
 
-## 🎞️ **Interactive Dashboard Preview (GIF-Style)**  
-> *(GIF not required — GitHub will animate multiple images in a scrolling effect)*  
+## 🎞️ **Interactive Dashboard Preview**  
 
 <p align="center">
   <img src="https://github.com/Deepak747949/India-General-Election-2024-Analysis/blob/main/Landing%20Page_Screenshot.jpg" width="800"><br>
